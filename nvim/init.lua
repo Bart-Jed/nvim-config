@@ -27,4 +27,5 @@ require("lazy").setup({
     require("plugins.telescope"),
     require("plugins.which-key"),
     require("plugins.treesitter"),
+    require("plugins.mini-pairs")
 })
