@@ -19,6 +19,11 @@ return {
                 "java",
                 "arduino",
                 "git_config",
+                "c_sharp",
+                "razor",
+                "pug",
+                "typescript",
+                "angular",
             },
             highlight = {
                 enable = true,
